@@ -1,13 +1,10 @@
 # Home_Sales
 
-# Spark SQL Tasks README
+# Spark SQL Tasks
 
 This README provides an overview of the Spark SQL tasks performed using Apache Spark.
 
 ## Prerequisites
-
-Make sure you have the following prerequisites installed:
-
 - Apache Spark
 - Python (if running PySpark scripts)
 
